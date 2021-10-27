@@ -1,6 +1,6 @@
 ## Academic and Non-Commercial Research Use Software License and Terms of Use
 
-**Automated Measurements of Key Morphological Features of Human Embryos for IVF** (the “Software”). The Software was developed by Won-Dong Jang and Hanspeter Pfister.
+**Automated Measurements of Key Morphological Features of Human Embryos for IVF** (the “Software”). The Software was developed by Brian D. Leahy, Won-Dong Jang, Helen Y. Yang, Hanspeter Pfister, and Daniel Needleman.
 
 Using the Software indicates your agreement to be bound by the terms of this Software Use Agreement (“Agreement”). Absent your agreement to the terms below, you (the “End User”) have no rights to hold or use the Software whatsoever. 
 
